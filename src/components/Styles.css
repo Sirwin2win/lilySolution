@@ -1,0 +1,53 @@
+.tu{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.tu:hover{
+    color: gray;
+}
+#pic{
+    height: 50px;
+    width: 50;
+    border-radius: 50%;
+}
+#hh{
+    height: 150px;
+}
+.navbar-toggler-icon{
+    background-color:rgb(27, 32, 32);
+}
+.lan{
+    margin-left: 400px;
+}
+.tan{
+    margin-left: 500px;
+}
+.can{
+    margin-left: 900px;
+    margin-top: -90px;
+}
+.navbar-toggler{
+    color: black;
+}
+.twee{
+    size: 30px;
+}
+.footercon{
+    margin-left: 30px;
+    margin-right: 30;
+}
+.hoteloptions{
+    list-style-type:none;
+}
+.caro{
+    width: 100%;
+}
+
+.phot{
+    height: 500px;
+    width: 500px;
+}
+.fron{
+    z-index: 3;
+}
